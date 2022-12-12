@@ -10,6 +10,6 @@ int main() {
     for(int i=0; i<n;i++){
         cin >> a[i];
     }
-    cout << trovaMax(a,n);
+    cout << trovaMax(a,n) << endl;
     return 0;
 }
