@@ -1,6 +1,6 @@
 #include "lib.h"
 
-float trovaMax(float a[],int n){
+float trovaMax(float mat[],int n){
     float a = mat[0];
 
     for(int i=1;i<n;i++){
